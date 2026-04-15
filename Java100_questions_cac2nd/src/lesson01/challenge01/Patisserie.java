@@ -14,6 +14,7 @@
 
 package lesson01.challenge01;
 
+//okuda test comment
 public class Patisserie {
 
 	public static void main(String[] args) {
